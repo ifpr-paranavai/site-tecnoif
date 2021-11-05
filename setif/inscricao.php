@@ -65,9 +65,9 @@
 </div>
 <div class="container" style="margin-top: 20px;">
     <article>
-<h2 class="text">Inscrições para os Minicursos</h2>
+<h2 class="text">Faça sua inscrição</h2>
 <hr class="mt-2 mb-5">
-<p class="text-left">Em breve!!</p>
+<a target="_blank" class="text-left" href="https://www.even3.com.br/ifpr_setif2021/">Clique aqui para se inscrever na SETIF 2021 e nas suas atividades</a>
 <p>&nbsp;</p>
     <h2 class="text">Submissão</h2>
     <hr class="mt-2 mb-5">

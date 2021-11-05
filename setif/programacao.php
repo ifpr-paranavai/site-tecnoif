@@ -61,7 +61,7 @@
     </div>
     <div class="container">
         <article style="margin-top: 40px;">
-            <h2 class="display-5">Em breve!!</h2>
+        <a target="_blank" class="text-left" href="https://www.even3.com.br/ifpr_setif2021/">Clique aqui para acessar a programação completa do evento</a>
                     <hr class="mt-2 mb-5">
                     <!-- <iframe src="./Programacao_files/pub.html" height="1100" width="1100"> -->
                     <!--<iframe height="1100" width="1100" src="https://docs.google.com/document/d/e/2PACX-1vS7f2Eexea9rX74HRvAH2hIR3KlUI9JXfWfth1MROqynEwtDz7Y6dU66xfgXV3QwlYfAWGBUOaKT7m3/pub?embedded=true"></iframe>-->
